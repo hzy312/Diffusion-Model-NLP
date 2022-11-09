@@ -5,3 +5,5 @@
 * Diffusion-LM Improves Controllable Text Generation [https://arxiv.org/abs/2205.14217]
 
 * DIFFUSER: DISCRETE DIFFUSION VIA EDIT-BASED RECONSTRUCTION [https://arxiv.org/pdf/2210.16886.pdf]
+
+* SELF-CONDITIONED EMBEDDING DIFFUSION FOR TEXT GENERATION [https://arxiv.org/pdf/2211.04236.pdf]
